@@ -1,4 +1,4 @@
-# xylophone
+# Xylophone
 
 Flutter Course
 
